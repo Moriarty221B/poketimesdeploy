@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poketimesdeploy/static/css/main.ab5063ee.chunk.css",
+    "main.js": "/poketimesdeploy/static/js/main.7174b334.chunk.js",
+    "main.js.map": "/poketimesdeploy/static/js/main.7174b334.chunk.js.map",
+    "runtime-main.js": "/poketimesdeploy/static/js/runtime-main.27a8909f.js",
+    "runtime-main.js.map": "/poketimesdeploy/static/js/runtime-main.27a8909f.js.map",
+    "static/js/2.e847feec.chunk.js": "/poketimesdeploy/static/js/2.e847feec.chunk.js",
+    "static/js/2.e847feec.chunk.js.map": "/poketimesdeploy/static/js/2.e847feec.chunk.js.map",
+    "index.html": "/poketimesdeploy/index.html",
+    "precache-manifest.fe18b891b5f67c9f90766a8acf35b761.js": "/poketimesdeploy/precache-manifest.fe18b891b5f67c9f90766a8acf35b761.js",
+    "service-worker.js": "/poketimesdeploy/service-worker.js",
+    "static/css/main.ab5063ee.chunk.css.map": "/poketimesdeploy/static/css/main.ab5063ee.chunk.css.map",
+    "static/media/pokeball.png": "/poketimesdeploy/static/media/pokeball.f10bf078.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27a8909f.js",
+    "static/js/2.e847feec.chunk.js",
+    "static/css/main.ab5063ee.chunk.css",
+    "static/js/main.7174b334.chunk.js"
+  ]
+}
